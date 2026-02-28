@@ -6,7 +6,7 @@ Estudos em SQL para Análise de Dados. Prática diária de queries para resoluç
 * Praticar a resolução de problemas reais de extração de dados.
 * Neste repositório estou manipulando um banco de dados
 
-* ##  Estrutura de Pastas e Conteúdo
+##  Estrutura de Pastas e Conteúdo
 
 Para facilitar a navegação, os scripts estão organizados por nível de complexidade e temas. Todos os conseitos de SQL estarão nesse repositório. Fundamentos de extração (SELECT, FROM, WHERE, LIMIT). Agrupamentos e filtros de grupo (GROUP BY, HAVING, SUM, AVG, COUNT, MIN/MAX). Relacionamento entre tabelas (LEFT, INNER, RIGHT e FULL JOINS). Ferramentas de nível analítico (CTEs - Common Table Expressions e Window Functions). Resolução de desafios e exercícios práticos. 
 
